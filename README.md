@@ -1,4 +1,4 @@
-# ¡Hola! Soy Lucas Rodríguez Hernández 👋 📊
+# ¡Hola! Soy Lucas 👋 📊
 
 Soy estudiante del **Grado en Ciencia e Ingeniería de Datos** en la ULPGC.
 
